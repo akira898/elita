@@ -1,0 +1,18 @@
+¡Hola, tonto!
+Me llamo Elita
+y soy la mejor programadora de arduino del mundo
+Yo te ofrezco la possibilidad de traducir comandos en español,
+en algo que la placa arduino pueda entender.
+Esto (obiamente) lo hago para que la placa arduino no tenga que sufrir tu codigo de***
+y no por que me guste estar contigo!
+(Realmente me gusta estar contigo)
+...
+Mierda olvide que el programa tambien muestra mis pensamientos
+..
+Bueno...
+Cual es tu nombre?
+name
+Ha,
+bien!
+ya tengo a quien culpar por el codigo que vea aqui
+

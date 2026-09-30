@@ -1,0 +1,7 @@
+setup
+pin 8 salida
+fin
+loop
+pin 8 encendido
+espera 100
+fin

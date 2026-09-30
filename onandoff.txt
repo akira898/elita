@@ -1,0 +1,8 @@
+
+has hecho que un led se encienda y apage
+..
+que me emocione mas dices
+¿como emocionarme con el equivalente a "hello, world" de arduino?
+Es algo tan de novato
+Yo no me emociono tanto con esa pequeñeces)
+(Me he emocionado yo tambien cuando se ha encendido)
